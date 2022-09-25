@@ -9,9 +9,9 @@ const Banner = () => {
        
       <Carousel.Item >
                 <img
-                   style={{'height':'400px', 'borderRadius':'20px'}}
-          className="d-block img-fluid" 
-          src="https://i.ibb.co/d73g8YK/bg1.jpg"
+                   style={{'height':'350px', 'borderRadius':'20px'}}
+          className="d-block w-100" 
+          src="https://i.ibb.co/QNKh3yb/bg5.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -20,7 +20,7 @@ const Banner = () => {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <img   style={{'height':'400px', 'borderRadius':'20px'}}
+        <img   style={{'height':'350px', 'borderRadius':'20px'}}
           className="d-block w-100"
           src="https://i.ibb.co/RY9d7xv/bg3.jpg"
           alt="Second slide"
@@ -32,9 +32,23 @@ const Banner = () => {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <img     style={{'height':'400px', 'borderRadius':'20px'}}
+        <img     style={{'height':'350px', 'borderRadius':'20px'}}
           className="d-block w-100"
           src="https://i.ibb.co/9p40FXw/bg4.jpg"
+          alt="Third slide"
+        />
+
+        <Carousel.Caption >
+          <h3 className='my-4'>Third slide label</h3>
+          <p>
+            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+          </p>
+        </Carousel.Caption>
+                </Carousel.Item>
+                  <Carousel.Item>
+        <img     style={{'height':'350px', 'borderRadius':'20px'}}
+          className="d-block w-100"
+          src="https://i.ibb.co/qFT4XxB/bg6.jpg"
           alt="Third slide"
         />
 
@@ -45,7 +59,9 @@ const Banner = () => {
           </p>
         </Carousel.Caption>
       </Carousel.Item>
-    </Carousel>
+            </Carousel>
+          
+      
         </div>
         
     );
