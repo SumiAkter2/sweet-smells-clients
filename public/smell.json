@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "balance": "$100 ",
+    "picture": "https://i.ibb.co/wWD3QNY/roberto-cavalli.png",
+    "name": "Roberto Cavalli Dior",
+    "dis": "An explosive bouquet of fresh and sweet notes. It was introduced in 2005, as an oriental perfume. Top notes tingle with fresh and sweet accords of bergamot and green tea.",
+    "off": "15%"
+  },
+  {
+    "id": 2,
+    "balance": "$150 ",
+    "picture": "https://i.ibb.co/m0wXByN/shalimar.png",
+    "name": "Shalimar Perfume",
+    "dis": "Base notes consist of warm white amber, with woodsy middle notes and a top note of Indian jasmine. It has a heavy sillage and is a very long-lasting fragrance.",
+    "off": ""
+  },
+  {
+    "id": 3,
+    "balance": "$110 ",
+    "picture": "https://i.ibb.co/28vrmd8/guerlain-removebg-preview.pngg",
+    "name": "Guerlain Perfume",
+    "dis": "A luxurious sensual woody scent. The fragrance captivates with a sultry top of succulent Italian plum, golden saffron and velvety iris. The heart is a bouquet of rich Bulgarian rose that mingles with lush orris and creamy nuances of jasmine sambac.",
+    "off": "10%"
+  },
+  {
+    "id": 4,
+    "balance": "$290 ",
+    "picture": "https://i.ibb.co/PccyMy2/trangle-removebg-preview.png ",
+    "name": "Leleux Illegal",
+    "dis": "A French expression meaning Life is beautiful the manifesto of a new era. Universal yet personal, Lancôme's femininity is a choice embraced by women, not an imposed standard."
+  },
+  {
+    "id": 5,
+    "balance": "$150 ",
+    "picture": "https://i.ibb.co/CKxg77p/dream-removebg-preview.png",
+    "name": "Homme L'odeur",
+    "dis": "An addictive fragrance with airy fresh facets, delicious mouth-watering aromas and mysterious notes that capture the essence of sensuality. It evokes the emotion of joyful memories with a sense of dreamlike infinity; a glamorous fragrance for the woman who is half-angelic and half-devilish."
+  },
+  {
+    "id": 6,
+    "balance": "$140 ",
+    "picture": "https://i.ibb.co/Tc3K8pv/perfume-heaven-removebg-preview.png",
+    "name": "Brezza Di Gionno",
+    "dis": "Irresistibly sexy, irrepressibly spirited. A semi-Oriental fragrance. "
+  },
+  {
+    "id": 7,
+    "balance": "$200 ",
+    "picture": "https://i.ibb.co/nDdmR7C/sweet-smell-removebg-preview.png",
+    "name": "Valencia Pink",
+    "dis": " It evokes the emotion of joyful memories with a sense of dreamlike infinity; a glamorous fragrance for the woman who is half-angelic and half-devilish.",
+    "off": "20%"
+  },
+  {
+    "id": 8,
+    "balance": "$230 ",
+    "picture": "https://i.ibb.co/x6Xxbt8/gucci-removebg-preview.png",
+    "name": "Gucci Dior",
+    "dis": "An irresistible and sensual fragrance. Vanilla, soft and woody - the top note is dominated by black currant leaves, perfectly combined with a floral heart of may rose and freesia."
+  },
+  {
+    "id": 9,
+    "balance": "$110 ",
+    "picture": "https://i.ibb.co/BNyLT9N/miss-dior-removebg-preview.png",
+    "name": "Miss Dior",
+    "dis": "The fragrance of a modern-day girl; delicious and toxic. A sensual trap that instantly poisons and draws out the pleasure to the point of addiction. A bitter-sweet floral with mouthwatering Orange that is delightfully swathed in Venezuelan Tonka Bean and blossoms in the biting sensuality of Grasse Rose."
+  },
+  {
+    "id": 10,
+    "balance": "$110 ",
+    "picture": "https://i.ibb.co/qCNQQdK/hypnotic-poison-removebg-preview.png",
+    "name": "Hypnotic Poison",
+    "dis": "A dazzling, luminous and very feminine fragrance. A modern fruity floral which opens on green top notes of ginger, which give way to the softer heart notes of tea rose. The vibrant layer of cedarwood gently evolves on the skin to create a soft veil of sensuality."
+  },
+  {
+    "id": 11,
+    "balance": "$110 ",
+    "picture": "https://i.ibb.co/KLjfcJN/amouage-crimson-rocks-removebg-preview.png",
+    "name": "Amouage Crimson Rocks",
+    "dis": "A seductive blend of honey-sweet peach, delicate freesia and roasted cocoa beans, with a final sensuous note of bewitching osmanthus blossom.."
+  },
+  {
+    "id": 12,
+    "balance": "$110 ",
+    "picture": "https://i.ibb.co/w0NTKRK/black-bella-removebg-preview.png",
+    "name": "Secret Code",
+    "dis": "A woody, aromatic fragrance for the man who defies convention; a provocative blend of citrus and woods that liberates the senses. Fresh, clean, and profoundly sensual."
+  }
+]

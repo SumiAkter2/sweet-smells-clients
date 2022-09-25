@@ -15,8 +15,8 @@ const Banner = () => {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h3>MOST POPULAR PERFUME & COLOGNE BRANDS</h3>
+          <p className='text-sm'>Free shipping on thousands of fragrances. Save up to 80% off retail.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -27,8 +27,8 @@ const Banner = () => {
         />
 
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3>BEST SELLERS FOR WOMEN</h3>
+          <p className='text-sm'>Free shipping on thousands of fragrances. Save up to 80% off retail.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -39,9 +39,9 @@ const Banner = () => {
         />
 
         <Carousel.Caption >
-          <h3 className='my-4'>Third slide label</h3>
-          <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+          <h3 className='my-4'>Shop a selection of the best fragrances from Sweet Smells.</h3>
+          <p className='text-sm'>
+           Free shipping on thousands of fragrances. Save up to 80% off retail.
           </p>
         </Carousel.Caption>
                 </Carousel.Item>
@@ -53,9 +53,9 @@ const Banner = () => {
         />
 
         <Carousel.Caption>
-          <h3>Third slide label</h3>
-          <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+          <h3>LUXURY BRANDS. LOWEST PRICES.</h3>
+          <p className='text-sm'>
+           Free shipping on thousands of fragrances. Save up to 80% off retail.
           </p>
         </Carousel.Caption>
       </Carousel.Item>
