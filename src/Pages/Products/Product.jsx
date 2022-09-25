@@ -1,25 +1,25 @@
 import React from 'react';
-import { Card } from 'react-bootstrap';
+import './Product.css'
 
 const Product = ({product}) => {
     return (
-        <div>
-            <img style={{ width: '50px' }} src={product.picture} alt="" />
+        
+           
              
       
-        <Card.Img variant="top" src="holder.js/100px160" />
-        <Card.Body>
-                <Card.Title>{ product.name}</Card.Title>
-          <Card.Text>
-            {product.dis}
-          </Card.Text>
-        </Card.Body>
-        <Card.Footer>
+        < div className='product-container'>
+         <img className='w-100'  src={product.picture} alt="product-img" />
+      
+     <p>{ product.name}</p>
+          
+      
+        <p>
                 <small className="text-muted">{ product.balance}</small>
-        </Card.Footer>
+        </p>
+       </div>
                
                 
-        </div>
+       
     );
 };
 
